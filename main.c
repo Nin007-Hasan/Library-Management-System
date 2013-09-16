@@ -1,6 +1,4 @@
-
-
-#include<stdio.h>   //Declarations for all of the functions in the Windows API(Application Programming Interfaces)
+#include<stdio.h>   
 #include<string.h>
 #include <windows.h>
 #include<stdlib.h>
